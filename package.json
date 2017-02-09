@@ -1,0 +1,17 @@
+{
+  "name": "senticon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "twitter": "^1.4.0",
+    "watson-developer-cloud": "^2.4.6"
+  }
+}
